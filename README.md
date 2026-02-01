@@ -1,7 +1,7 @@
 # 💳 Financial Fraud Detection using Machine Learning (LightGBM)
 
 ## 📖 Project Overview
-This project focuses on building an end-to-end machine learning pipeline to detect fraudulent financial transactions. The dataset contains more than 6.3 million transaction records and is highly imbalanced with approximately 0.13% fraud cases.
+This project focuses on building an end to end machine learning pipeline to detect fraudulent financial transactions. The dataset contains more than 6.3 million transaction records and is highly imbalanced with approximately 0.13% fraud cases.
 
 The objective is to develop a robust fraud detection model and derive business insights that can help financial institutions proactively prevent fraudulent transactions.
 
@@ -77,7 +77,7 @@ The model and EDA identified the following key fraud indicators:
 
 ## 🏦 Business Recommendations
 - Risk-based authentication for transfer transactions  
-- Additional verification for high-value transactions  
+- Additional verification for high value transactions  
 - Real-time fraud monitoring systems  
 - Adaptive fraud risk scoring mechanisms  
 
