@@ -89,8 +89,3 @@ The model and EDA identified the following key fraud indicators:
 - Real-time streaming fraud detection  
 - Ensemble fraud detection models  
 
----
-
-## 🚀 How to Run This Project
-
-### 1️⃣ Install Dependencies
